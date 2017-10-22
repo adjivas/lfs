@@ -1,7 +1,7 @@
 #!/bin/bash
 # 5.12.1. Installation of Expect 
 cd $LFS/sources
-tar -xf expect5.45.tar.gz cd expect5.45
+tar -xf expect5.45.tar.gz && cd expect5.45
 
 ## This will ensure that our test suite tools remain sane for the final builds of our toolchain:
 cp -v configure{,.orig}
