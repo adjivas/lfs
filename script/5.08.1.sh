@@ -22,4 +22,4 @@ make
 ## Install the library:
 make install
 
-cd $LFS/sources && rm -rf gcc-7.2.0
+cd $LFS/sources/gcc-7.2.0 && rm -rf build

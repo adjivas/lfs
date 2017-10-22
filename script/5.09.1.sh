@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 # 5.9.1. Installation of Binutils 
 cd $LFS/sources/binutils-2.29
 
