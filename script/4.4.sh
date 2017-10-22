@@ -18,4 +18,3 @@ EOF
 
 ## Finally, to have the environment fully prepared for building the temporary tools, source the just-created user profile:
 source ~/.bash_profile
-

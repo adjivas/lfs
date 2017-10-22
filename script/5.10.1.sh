@@ -63,4 +63,10 @@ make install
 ## Running cc leaves the system administrator free to decide which C compiler to install:
 ln -sv gcc /tools/bin/cc
 
+## To perform a sanity check, run the following commands: 
+## [Requesting program interpreter: /tools/lib/ld-linux.so.2]
+echo 'int main(){}' > dummy.c
+$LFS_TGT-gcc dummy.c
+readelf -l a.out | grep ': /tools'
+
 cd $LFS/sources && rm -rf gcc-7.2.0

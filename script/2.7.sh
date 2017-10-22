@@ -11,7 +11,6 @@ mkdir -v $LFS/usr && mount -v -t ext3 /dev/sdb7 $LFS/usr
 mkdir -v $LFS/usr/src && mount -v -t ext4 /dev/sdb5 $LFS/usr/src
 
 echo "/dev/sdb2     /mnt/lfs            ext3    defaults            0     1" >> /etc/fstab
-echo "/dev/sdb1     /mnt/lfs/boot       ext1    defaults            0     1" >> /etc/fstab
 echo "/dev/sdb6     /mnt/lfs/opt        ext3    defaults            0     1" >> /etc/fstab
 echo "/dev/sdb8     /mnt/lfs/tmp        ext3    defaults            0     1" >> /etc/fstab
 echo "/dev/sdb7     /mnt/lfs/usr        ext3    defaults            0     1" >> /etc/fstab
