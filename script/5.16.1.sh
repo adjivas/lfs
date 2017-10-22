@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.16.1 Bash-4.4 
 cd $LFS/sources
 tar -xf bash-4.4.tar.gz && cd bash-4.4

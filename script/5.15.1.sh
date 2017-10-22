@@ -1,3 +1,4 @@
+
 # 5.15.1. Installation of Ncurses 
 cd $LFS/sources
 tar -xf ncurses-6.0.tar.gz && cd ncurses-6.0

@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.32.1. Installation of Tar 
 cd $LFS/sources
 tar -xf tar-1.29.tar.xz && cd tar-1.29

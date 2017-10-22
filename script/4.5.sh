@@ -1,3 +1,4 @@
+#!/bin/bash
 # 4.5. About SBUs 
 
 ## For instance, a Core2Duo can support two simultaneous processes with:

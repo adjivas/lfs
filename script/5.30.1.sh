@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.30.1. Installation of Perl
 cd $LFS/sources
 tar -xf perl-5.26.0.tar.xz && cd perl-5.26.0

@@ -1,4 +1,5 @@
-5.24.1. Installation of Gettext 
+#!/bin/bash
+# 5.24.1. Installation of Gettext 
 cd $LFS/sources
 tar -xf gettext-0.19.8.1.tar.xz && cd gettext-0.19.8.1
 

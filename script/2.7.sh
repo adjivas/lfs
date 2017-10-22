@@ -1,3 +1,4 @@
+#!/bin/bash
 # 2.7. Mounting the New Partition 
 
 ## Create the mount point and mount the LFS file system by running:

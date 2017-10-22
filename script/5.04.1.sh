@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.4.1. Installation of Cross Binutils 
 cd $LFS/sources
 tar -xf binutils-2.29.tar.bz2 && cd binutils-2.29

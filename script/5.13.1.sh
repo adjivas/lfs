@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.13.1. Installation of DejaGNU
 cd $LFS/sources
 tar -xf dejagnu-1.6.tar.gz && cd dejagnu-1.6

@@ -1,3 +1,4 @@
+#!/bin/bash
 # 4.4. Setting Up the Environment 
 
 ## While logged in as user lfs, issue the following command to create a new .bash_profile:

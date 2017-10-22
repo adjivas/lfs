@@ -1,3 +1,4 @@
+#!/bin/bash
 #  5.33.1. Installation of Texinfo 
 cd $LFS/sources
 tar -xf texinfo-6.4.tar.xz && cd texinfo-6.4

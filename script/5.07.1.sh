@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.7.1. Installation of Glibc 
 cd $LFS/sources
 tar -xf glibc-2.26.tar.xz && cd glibc-2.26

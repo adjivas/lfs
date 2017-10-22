@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.6.1. Installation of Linux API Headers 
 cd $LFS/sources
 tar -xf linux-4.12.7.tar.xz && cd linux-4.12.7

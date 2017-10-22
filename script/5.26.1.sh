@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.26.1. Installation of Gzip 
 cd $LFS/sources
 tar -xf gzip-1.8.tar.xz && cd gzip-1.8

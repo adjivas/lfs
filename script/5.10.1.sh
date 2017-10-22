@@ -1,3 +1,4 @@
+#!/bin/bas
 # 5.10.1. Installation of GCC 
 cd $LFS/sources/gcc-7.2.0
 

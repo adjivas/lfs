@@ -1,3 +1,4 @@
+#!/bin/bash
 # 4.3. Adding the LFS User 
 
 ## You could use your own user name, but to make it easier to set up a clean working environment, create a new user called lfs as a member of a new group (also named lfs) and use this user during the installation process. As root, issue the following commands to add the new user:

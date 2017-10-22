@@ -1,3 +1,4 @@
+#!/bin/bash
 ## 5.5.1. Installation of Cross GCC
 cd $LFS/sources
 tar -xf gcc-7.2.0.tar.xz && cd gcc-7.2.0

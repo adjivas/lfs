@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.14.1. Installation of Check
 cd $LFS/sources
 tar -xf check-0.11.0.tar.gz && cd check-0.11.0

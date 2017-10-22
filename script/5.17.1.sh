@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.17.1. Installation of Bison 
 cd $LFS/sources
 tar -xf bison-3.0.4.tar.xz && cd bison-3.0.4

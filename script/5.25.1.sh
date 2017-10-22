@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.25. Grep-3.1 
 cd $LFS/sources
 tar -xf grep-3.1.tar.xz && cd grep-3.1

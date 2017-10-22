@@ -1,3 +1,4 @@
+#!/bin/bash
 # 3.1. Introduction 
 
 ## To create this directory, execute the following command, as user root, before starting the download session:

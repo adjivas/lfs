@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.11.1. Installation of Tcl-core 
 cd $LFS/sources
 tar -xf tcl-core8.6.7-src.tar.gz && cd Tcl-core-8.6.7-src

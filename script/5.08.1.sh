@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.8.1. Installation of Target Libstdc++ 
 cd $LFS/sources/gcc-7.2.0
 

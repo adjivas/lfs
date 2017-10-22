@@ -1,3 +1,4 @@
+#!/bin/bash
 # 4.2. Creating the $LFS/tools Directory 
 
 ## Create the required directory by running the following as root:

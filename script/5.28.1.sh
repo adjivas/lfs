@@ -1,3 +1,4 @@
+#!/bin/bash
 # 5.28.1. Installation of Make 
 cd $LFS/sources
 tar -xf make-4.2.1.tar.bz2 && cd make-4.2.1
