@@ -15,9 +15,6 @@ sed 's:/usr/local/bin:/bin:' configure.orig > configure
 ## Build the package:
 make
 
-## Compilation is now complete. As discussed earlier, running the test suite is not mandatory for the temporary tools here in this chapter. To run the Expect test suite anyway, issue the following command:
-make test
-
 ## Install the package:
 make SCRIPTS="" install
 
